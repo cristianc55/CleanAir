@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329188952191",
+    "project_id": "clean-air-isi-jetpack",
+    "storage_bucket": "clean-air-isi-jetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329188952191:android:5a1f75c4dd3fb22d37574a",
+        "android_client_info": {
+          "package_name": "com.example.cleanair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFV4fN9Z1Vln1Lr963aovypkqfNXZLpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
